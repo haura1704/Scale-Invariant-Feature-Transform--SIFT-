@@ -1,3 +1,5 @@
+https://github.com/haura1704/Image-matching-Scale-Invariant-Feature-Transform-SIFT-.git
+
 # Image Matching Menggunakan SIFT dan RANSAC
 
 ## Deskripsi
@@ -28,5 +30,5 @@ Program menampilkan:
 - Jumlah inliers setelah RANSAC
 
 ## Penulis
-Aisha Haura
+Aisha Utwa Haura
 Teknik Informatika
