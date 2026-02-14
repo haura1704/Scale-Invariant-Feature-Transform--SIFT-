@@ -2,8 +2,8 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-img1 = cv2.imread('./images/taman.jpg')
-img2 = cv2.imread('./images/airmancurtaman.jpg')
+img1 = cv2.imread('./Scale-Invariant Feature Transform (SIFT)/images/taman.jpg')
+img2 = cv2.imread('./Scale-Invariant Feature Transform (SIFT)/images/airmancurtaman.jpg')
 
 if img1 is None or img2 is None:
     print("Error: Gambar tidak ditemukan. Periksa path dataset.")

@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-img = cv2.imread('./images/taman.jpg')
+img = cv2.imread('./Scale-Invariant Feature Transform (SIFT)/images/taman.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 sigma = 1.6       
